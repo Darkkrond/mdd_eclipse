@@ -19,5 +19,8 @@ public class Compile extends BgPanel {
 		this.add(new Button(MARGIN_LEFT + 8, MARGIN_TOP + 90, 198, 32, "ƒобавить в библиотеку", "/res/images/button.png", "/res/font.ttf", 16, Color.BLACK));
 		this.add(new Button(MARGIN_LEFT + 215, MARGIN_TOP + 10, 147, 145, "", "/res/images/compileBtn.png", "/res/font.ttf", 16, Color.BLACK));
 	}
-
+	
+	public void test() {
+		System.out.println("проверка типа");
+	}
 }

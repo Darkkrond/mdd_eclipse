@@ -25,7 +25,7 @@ public class Main extends JFrame {
 	public JPanel template;
 	
 	public Main() {
-		this.setTitle("Генератор лаунчера tes");
+		this.setTitle("Генератор лаунчера");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setUndecorated(true);
 		

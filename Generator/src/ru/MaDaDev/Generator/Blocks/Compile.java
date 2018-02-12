@@ -21,6 +21,6 @@ public class Compile extends BgPanel {
 	}
 	
 	public void test() {
-		System.out.println("проверка типа");
+		System.out.println("проверка тип");
 	}
 }

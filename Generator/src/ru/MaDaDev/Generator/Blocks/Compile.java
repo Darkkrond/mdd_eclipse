@@ -20,7 +20,7 @@ public class Compile extends BgPanel {
 		this.add(new Button(MARGIN_LEFT + 215, MARGIN_TOP + 10, 147, 145, "", "/res/images/compileBtn.png", "/res/font.ttf", 16, Color.BLACK));
 	}
 	
-	public void test() { 
+	public void test() {
 		System.out.println("проверка тип");
 	}
 }
